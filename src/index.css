@@ -13,14 +13,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-#board {
-  width: 40rem;
-  height: 40rem;
-  margin: 0 auto;
-  text-align: center;
-  border: 0.3rem solid;
-}
-
 body {
   margin: 0;
   display: flex;
